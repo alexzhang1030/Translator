@@ -1,9 +1,9 @@
 <script setup lang="ts">
 useHead({
-  title: 'Vitesse Nuxt 3',
+  title: 'Translator',
   link: [
     {
-      rel: 'icon', type: 'image/png', href: '/nuxt.png',
+      rel: 'icon', type: 'image/svg', href: '/logo.svg',
     },
   ],
 })
