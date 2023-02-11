@@ -6,6 +6,6 @@
     <div bg-orange-7 rounded-md p-1 box-border text-12px>
       powered by GPT-3
     </div>
-    <a i-carbon-logo-github href="https://github.com/antfu/vitesse-nuxt3" target="_blank" />
+    <a i-carbon-logo-github href="https://github.com/alexzhang1030/Translator" target="_blank" />
   </div>
 </template>
