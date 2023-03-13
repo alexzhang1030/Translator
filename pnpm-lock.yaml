@@ -13,7 +13,7 @@ specifiers:
   '@unocss/nuxt': ^0.50.4
   '@vue-macros/nuxt': ^1.2.2
   '@vueuse/nuxt': ^9.13.0
-  chatgpt: ^4.8.3
+  chatgpt: ^5.0.10
   eslint: ^8.36.0
   iso-639-1: ^2.1.15
   nuxt: ^3.2.3
@@ -24,7 +24,7 @@ specifiers:
 dependencies:
   '@headlessui/vue': 1.7.12
   '@heroicons/vue': 2.0.16
-  chatgpt: 4.8.3
+  chatgpt: 5.0.10
   iso-639-1: 2.1.15
 
 devDependencies:
@@ -3330,8 +3330,8 @@ packages:
     resolution: {integrity: sha512-mT8iDcrh03qDGRRmoA2hmBJnxpllMR+0/0qlzjqZES6NdiWDcZkCNAk4rPFZ9Q85r27unkiNNg8ZOiwZXBHwcA==}
     dev: true
 
-  /chatgpt/4.8.3:
-    resolution: {integrity: sha512-3kJ41a+E6aAnw4NZQgjoS8s3veu8mdaK1e0l6nX5Zr+QJre8KXygNUJJ8yPOCKBi26I3YZ1MdU+d1+QLuWrmAw==}
+  /chatgpt/5.0.10:
+    resolution: {integrity: sha512-R3vtPlhCapFLkDXED0Cnt1DBcOZAXygr0M5U5kbSI0Fwm4uDQmc7qoIOnr17rd8eaa0JO/UDOevJdEWvd079qA==}
     engines: {node: '>=14'}
     hasBin: true
     dependencies:
@@ -3340,7 +3340,7 @@ packages:
       conf: 11.0.1
       eventsource-parser: 0.0.5
       keyv: 4.5.2
-      p-timeout: 6.1.0
+      p-timeout: 6.1.1
       quick-lru: 6.1.1
       read-pkg-up: 9.1.0
       uuid: 9.0.0
@@ -6939,8 +6939,8 @@ packages:
       aggregate-error: 3.1.0
     dev: true
 
-  /p-timeout/6.1.0:
-    resolution: {integrity: sha512-s0y6Le9QYGELLzNpFIt6h8B2DHTVUDLStvxtvRMSKNKeuNVVWby2dZ+pIJpW4/pWr5a3s8W85wBNtc0ZA+lzCg==}
+  /p-timeout/6.1.1:
+    resolution: {integrity: sha512-yqz2Wi4fiFRpMmK0L2pGAU49naSUaP23fFIQL2Y6YT+qDGPoFwpvgQM/wzc6F8JoenUkIlAFa4Ql7NguXBxI7w==}
     engines: {node: '>=14.16'}
     dev: false
 
