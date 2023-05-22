@@ -29,7 +29,7 @@
   "dependencies": {
     "@headlessui/vue": "^1.7.13",
     "@heroicons/vue": "^2.0.18",
-    "chatgpt": "^4.8.3",
+    "chatgpt": "^5.2.4",
     "iso-639-1": "^2.1.15"
   }
 }
