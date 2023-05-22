@@ -1,6 +1,6 @@
 {
   "private": true,
-  "packageManager": "pnpm@7.32.1",
+  "packageManager": "pnpm@7.32.4",
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev --open",
@@ -10,25 +10,25 @@
     "generate": "nuxi generate"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.38.5",
+    "@antfu/eslint-config": "^0.39.1",
     "@iconify-json/carbon": "^1.1.16",
     "@iconify-json/twemoji": "^1.1.11",
-    "@nuxt/devtools": "^0.4.1",
+    "@nuxt/devtools": "^0.5.0",
     "@nuxtjs/color-mode": "^3.2.0",
-    "@pinia/nuxt": "^0.4.8",
-    "@types/node": "^18.15.11",
-    "@unocss/nuxt": "^0.51.4",
-    "@vue-macros/nuxt": "^1.2.8",
+    "@pinia/nuxt": "^0.4.11",
+    "@types/node": "^18.16.14",
+    "@unocss/nuxt": "^0.52.0",
+    "@vue-macros/nuxt": "^1.3.8",
     "@vueuse/nuxt": "^9.13.0",
-    "eslint": "^8.38.0",
-    "nuxt": "^3.4.1",
-    "pinia": "^2.0.34",
-    "taze": "^0.9.1",
+    "eslint": "^8.41.0",
+    "nuxt": "^3.5.1",
+    "pinia": "^2.1.3",
+    "taze": "^0.10.1",
     "typescript": "^5.0.4"
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.13",
-    "@heroicons/vue": "^2.0.17",
+    "@heroicons/vue": "^2.0.18",
     "chatgpt": "^4.8.3",
     "iso-639-1": "^2.1.15"
   }
