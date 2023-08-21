@@ -16,9 +16,9 @@
     "@nuxt/devtools": "^0.8.0",
     "@nuxtjs/color-mode": "^3.3.0",
     "@pinia/nuxt": "^0.4.11",
-    "@types/node": "^18.17.5",
-    "@unocss/nuxt": "^0.55.0",
-    "@vue-macros/nuxt": "^1.7.2",
+    "@types/node": "^18.17.6",
+    "@unocss/nuxt": "^0.55.2",
+    "@vue-macros/nuxt": "^1.7.5",
     "@vueuse/nuxt": "^10.3.0",
     "eslint": "^8.47.0",
     "nuxt": "^3.6.5",
@@ -27,7 +27,7 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
-    "@headlessui/vue": "^1.7.15",
+    "@headlessui/vue": "^1.7.16",
     "@heroicons/vue": "^2.0.18",
     "chatgpt": "^5.2.5",
     "iso-639-1": "^3.0.0"
