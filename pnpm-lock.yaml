@@ -15,8 +15,8 @@ dependencies:
     specifier: ^5.2.5
     version: 5.2.5
   iso-639-1:
-    specifier: ^2.1.15
-    version: 2.1.15
+    specifier: ^3.0.0
+    version: 3.0.0
 
 devDependencies:
   '@antfu/eslint-config':
@@ -1783,7 +1783,7 @@ packages:
     resolution: {integrity: sha512-Piet7dG2JBuDIfohBngQ3rCt7MgO9xCO4xIMKxBThCq5PNRB91IjlJ10eJVwfoNtvTErmxLzwBZ7rHZtbOMmFQ==}
     dependencies:
       '@types/estree': 1.0.0
-      '@types/json-schema': 7.0.11
+      '@types/json-schema': 7.0.12
     dev: true
 
   /@types/estree@1.0.0:
@@ -5876,8 +5876,8 @@ packages:
     resolution: {integrity: sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==}
     dev: true
 
-  /iso-639-1@2.1.15:
-    resolution: {integrity: sha512-7c7mBznZu2ktfvyT582E2msM+Udc1EjOyhVRE/0ZsjD9LBtWSm23h3PtiRh2a35XoUsTQQjJXaJzuLjXsOdFDg==}
+  /iso-639-1@3.0.0:
+    resolution: {integrity: sha512-LAfsZtvpoUcowRhEzltbp7U3MUEq2kUp1JlQ1fJ1FrIpr8e3r+68UTGWdnUQ1umEZ/oTY/YworSeZyFUly3MVg==}
     engines: {node: '>=6.0'}
     dev: false
 
@@ -8039,7 +8039,7 @@ packages:
     resolution: {integrity: sha512-pvjEHOgWc9OWA/f/DE3ohBWTD6EleVLf7iFUkoSwAxttdBhB9QUebQgxER2kWueOvRJXPHNnyrvvh9eZINB8Eg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/json-schema': 7.0.11
+      '@types/json-schema': 7.0.12
       ajv: 6.12.6
       ajv-keywords: 3.5.2(ajv@6.12.6)
     dev: true
