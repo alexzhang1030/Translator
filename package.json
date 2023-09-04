@@ -1,6 +1,6 @@
 {
   "private": true,
-  "packageManager": "pnpm@8.7.0",
+  "packageManager": "pnpm@8.7.1",
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev --open",
@@ -11,13 +11,13 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.41.0",
-    "@iconify-json/carbon": "^1.1.20",
+    "@iconify-json/carbon": "^1.1.21",
     "@iconify-json/twemoji": "^1.1.12",
     "@nuxt/devtools": "^0.8.2",
     "@nuxtjs/color-mode": "^3.3.0",
     "@pinia/nuxt": "^0.4.11",
-    "@types/node": "^18.17.12",
-    "@unocss/nuxt": "^0.55.3",
+    "@types/node": "^18.17.14",
+    "@unocss/nuxt": "^0.55.6",
     "@vue-macros/nuxt": "^1.7.12",
     "@vueuse/nuxt": "^10.4.1",
     "eslint": "^8.48.0",
