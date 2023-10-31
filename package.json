@@ -1,6 +1,6 @@
 {
   "private": true,
-  "packageManager": "pnpm@8.9.2",
+  "packageManager": "pnpm@8.10.0",
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev --open",
@@ -17,13 +17,13 @@
     "@nuxtjs/color-mode": "^3.3.0",
     "@pinia/nuxt": "^0.5.1",
     "@types/node": "^20.8.9",
-    "@unocss/nuxt": "^0.56.5",
-    "@vue-macros/nuxt": "^1.9.3",
+    "@unocss/nuxt": "^0.57.1",
+    "@vue-macros/nuxt": "^1.9.4",
     "@vueuse/nuxt": "^10.5.0",
     "eslint": "^8.52.0",
     "nuxt": "^3.8.0",
     "pinia": "^2.1.7",
-    "taze": "^0.11.4",
+    "taze": "^0.12.0",
     "typescript": "^5.2.2"
   },
   "dependencies": {
